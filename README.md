@@ -9,4 +9,4 @@ PyQt5
 **> Windows:** Run the PyClockSetup.exe in /dist folder.
 
 **Source Code:**  
-All the .py files [main.py, clock.py, timer.py, stopWatch.py] are included in the directory
+All the .py files [main.py, clock.py, timer.py, stopWatch.py, window.py] are included in the directory
