@@ -1,7 +1,8 @@
 # PyClock
 A simple clock application with an inbuilt timer and stopwatch. Fully written in Python [PyQt5].
 
-**Dependencies:**  
+## Dependencies  
+Python3
 PyQt5
 
 **How to run:**   
